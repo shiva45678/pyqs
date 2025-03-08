@@ -1,6 +1,6 @@
 {
     "name": "newtonAi",
-    "short_name": "newtonAi",
+    "short_name": "Newtons Ai",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
